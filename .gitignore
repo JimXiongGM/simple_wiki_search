@@ -216,3 +216,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# my
+.vscode
+data/
+.tmp/
+Qwen
+database/
+pyproject.toml
+logs/
+*.pkl
+.specstory
+*.tar.gz
+wandb/
+output*
+*.zst
+
+mistralai
+google

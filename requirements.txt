@@ -1,0 +1,16 @@
+cachetools
+faiss-cpu
+fastapi
+httpx
+loguru
+numpy
+openai
+psutil
+pydantic
+requests
+sglang>=0.5.13
+tantivy
+tqdm
+tyro
+uvicorn[standard]
+zstandard
