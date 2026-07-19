@@ -1,6 +1,4 @@
-# Wikipedia Agentic Search Baseline
-
-A clean offline Wikipedia environment for agentic search.
+# SimpleWikiSearch: A Clean Offline Wikipedia Environment for Agentic Search
 
 ## Motivation
 
@@ -70,16 +68,4 @@ sample_random_300
 
 ## Citation
 
-If you find this work useful, please cite:
-
-```bibtex
-@misc{xiong2026simplewikisearch,
-    title={SimpleWikiSearch: A Clean Offline Wikipedia Environment for Agentic Search}, 
-    author={Guanming Xiong and Penghui Zhang},
-    year={2026},
-    eprint={submit/7809283},
-    archivePrefix={arXiv},
-    primaryClass={cs.AI},
-    url={https://arxiv.org/abs/xx}, 
-}
-```
+TBC
