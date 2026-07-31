@@ -68,4 +68,14 @@ sample_random_300
 
 ## Citation
 
-TBC
+```bibtex
+@misc{xiong2026simplewikisearchcleanofflinewikipedia,
+      title={SimpleWikiSearch: A Clean Offline Wikipedia Environment for Agentic Search}, 
+      author={Guanming Xiong and Penghui Zhang},
+      year={2026},
+      eprint={2607.26070},
+      archivePrefix={arXiv},
+      primaryClass={cs.IR},
+      url={https://arxiv.org/abs/2607.26070}, 
+}
+```
